@@ -1,7 +1,7 @@
 <template>
     <section class="content-wrapper" style="min-height: 960px;">
         <section class="content-header">
-            <h1>Users</h1>
+            <h1>Userss</h1>
         </section>
 
         <section class="content">
@@ -26,7 +26,7 @@
                                             <td>{{ item.id }}</td>
                                         </tr>
                                         <tr>
-                                            <th>Name</th>
+                                            <th>Names</th>
                                             <td>{{ item.name }}</td>
                                             </tr>
                                         <tr>
